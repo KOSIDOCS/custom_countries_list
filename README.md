@@ -13,6 +13,10 @@ and the Flutter guide for
 
 This is a Flutter custom country picker widget, which uses platforms specific picker components to show countries to the users.
 
+<img height="600" alt="n1" src="https://raw.githubusercontent.com/KOSIDOCS/custom_countries_list/master/lib/src/utils/images/image1.png">
+
+<img height="600" alt="n1" src="https://raw.githubusercontent.com/KOSIDOCS/custom_countries_list/master/lib/src/utils/images/image2.png">
+
 ## Features
 
 Currently have only country selections and displaying country data like name, dia_code, code and flag.
